@@ -1,5 +1,5 @@
 # 无人系统设计 2018
-该死的交叉课程
+该死的SJTU se交叉课程
 无人系统设计的两个hw和一个proj
 ### hw1
 Socket server and client 
